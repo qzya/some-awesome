@@ -1,10 +1,10 @@
-# Some awesome and regular stuff
+# Some awesome stuff
 
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, on-liners, cli/web tools and more.
 - [awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 
-## Wordpress
+## WordPress
 - [awesome-wordpress](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WodPress Communities.
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inpired by awesome-php. 
 - [awesome-wordpress-developer-tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain code, snippets or examples without liraries or external packages for developers.
