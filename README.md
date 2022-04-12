@@ -47,3 +47,4 @@
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers.
